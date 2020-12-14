@@ -6,3 +6,8 @@ This repository includes examples for the most common animation methods provided
 ## Getting Started
 
 Fork this repo to contribute or clone it to understand and implement these methods yourself.
+
+## Build with: 
+* React
+* React Native
+* Animated API
